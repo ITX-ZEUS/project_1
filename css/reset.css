@@ -20,10 +20,6 @@ html,
 :has(:target) {
     scroll-behavior: smooth;
 }
-svg *[fill] {
-  fill: currentColor
-}
-
 svg *[stroke] {
   stroke: currentColor
 }

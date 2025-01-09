@@ -132,7 +132,7 @@ body {
 
 .header {
     font-weight: 700;
-    background: url("/img/decor/header_decor.svg") 50% 30% / cover no-repeat, linear-gradient(45.00deg, rgba(255, 63, 58, .2) 0%, rgba(247, 94, 5, .2) 100%);
+    background: url("img/decor/header_decor.svg") 50% 30% / cover no-repeat, linear-gradient(45.00deg, rgba(255, 63, 58, .2) 0%, rgba(247, 94, 5, .2) 100%);
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -193,7 +193,7 @@ body {
 
 .header__user::before {
     content: "";
-    background: url("/img/icon/Profile.svg") no-repeat;
+    background: url("img/icon/Profile.svg") no-repeat;
     width: 20px;
     height: 20px;
     display: block;
@@ -339,7 +339,7 @@ body {
     position: absolute;
     top: -80px;
     right: -140px;
-    background: url("/img/decor/decor-shapes.svg");
+    background: url("img/decor/decor-shapes.svg");
     width: 100px;
     height: 85px;
 }
@@ -446,7 +446,7 @@ body {
     left: -190px;
     width: 136px;
     height: 115px;
-    background: url("/img/decor/Group-decor.svg") 0 0 no-repeat;
+    background: url("img/decor/Group-decor.svg") 0 0 no-repeat;
 }
 
 .directions__inner::after {
@@ -456,7 +456,7 @@ body {
     right: -400px;
     width: 243px;
     height: 243px;
-    background: url(/img/decor/circles.svg) 0 0 no-repeat;
+    background: url(img/decor/circles.svg) 0 0 no-repeat;
 }
 
 
@@ -608,7 +608,7 @@ body {
     content: "";
     width: 24px;
     height: 24px;
-    background: url(/img/icon/Right.svg) 0 0 / 100% no-repeat;
+    background: url(img/icon/Right.svg) 0 0 / 100% no-repeat;
     margin-left: 11px;
 }
 
@@ -630,7 +630,7 @@ body {
     left: -190px;
     width: 60px;
     height: 60px;
-    background: url("/img/decor/decor-shapes-2.svg") 0 0 no-repeat;
+    background: url("img/decor/decor-shapes-2.svg") 0 0 no-repeat;
 }
 
 .sert__content {
@@ -674,7 +674,7 @@ body {
 /*=========================================================*/
 
 .team {
-    background: url("/img/decor/team-decor.svg") calc(50% + 140px) calc(50% + -28px) no-repeat, #F4F5F7;
+    background: url("img/decor/team-decor.svg") calc(50% + 140px) calc(50% + -28px) no-repeat, #F4F5F7;
 }
 
 .team__inner {}
@@ -888,7 +888,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-44.9%, -55.4%);
-    background: url("/img/decor/testimonials-decor.svg") 0 0 / 100% no-repeat;
+    background: url("img/decor/testimonials-decor.svg") 0 0 / 100% no-repeat;
     width: 1971px;
     height: 816px;
 }
@@ -938,7 +938,7 @@ body {
 .testimonials__quote::before {
     content: "";
     position: absolute;
-    background: url(/img/quote/braces.svg) 0 0 / 100% no-repeat;
+    background: url(img/quote/braces.svg) 0 0 / 100% no-repeat;
     top: 0;
     left: -58px;
     width: 28px;
@@ -1074,7 +1074,7 @@ body {
     left: -230px;
     height: 90px;
     width: 90px;
-    background: url("/img/decor/decor-work.svg") 0 0 / 100% no-repeat;
+    background: url("img/decor/decor-work.svg") 0 0 / 100% no-repeat;
 }
 
 .companies__heading {
@@ -1290,15 +1290,15 @@ body {
     background: #fff8aa;
 }
 .blog__item--podcast .blog__image-box span::before {
-    background: url('/img/icon/mic.svg') 0 0 / 100% no-repeat;
+    background: url('img/icon/mic.svg') 0 0 / 100% no-repeat;
 }
 
 .blog__item--video .blog__image-box span::before {
-    background: url('/img/icon/Play.svg') 0 0 / 100% no-repeat;
+    background: url('img/icon/Play.svg') 0 0 / 100% no-repeat;
 }
 
 .blog__item--article .blog__image-box span::before {
-    background: url('/img/icon/Files.svg') 0 0 / 100% no-repeat;
+    background: url('img/icon/Files.svg') 0 0 / 100% no-repeat;
 }
 
 .blog__item-content {
@@ -1346,7 +1346,7 @@ body {
     display: block;
     width: 16px;
     height: 15px;
-    background: url('/img/icon/Calendar.svg') 0 0 / 100% no-repeat;
+    background: url('img/icon/Calendar.svg') 0 0 / 100% no-repeat;
     margin-right: 9px;
 }
 
@@ -1360,7 +1360,7 @@ body {
     display: block;
     width: 16px;
     height: 15px;
-    background: url('/img/icon/Clock.svg') 0 0 / 100% no-repeat;
+    background: url('img/icon/Clock.svg') 0 0 / 100% no-repeat;
     margin-right: 9px;
 }
 
@@ -1392,7 +1392,7 @@ body {
     display: block;
     width: 24px;
     height: 24px;
-    background: url('/img/icon/Right.svg') 0 0 / 100% no-repeat;
+    background: url('img/icon/Right.svg') 0 0 / 100% no-repeat;
     margin-left: 8px;
 }
 
@@ -1464,15 +1464,15 @@ body {
 }
 
 .info__mail .info__item-top::before {
-    background: url('/img/contact_info/Chat.svg') 0 0 / 100% no-repeat;
+    background: url('img/contact_info/Chat.svg') 0 0 / 100% no-repeat;
 }
 
 .info__tel .info__item-top::before {
-    background: url('/img/contact_info/iPhone.svg') 0 0 / 100% no-repeat;
+    background: url('img/contact_info/iPhone.svg') 0 0 / 100% no-repeat;
 }
 
 .info__address .info__item-top::before {
-    background: url('/img/contact_info/Pin_outline.svg') 0 0 / 100% no-repeat;
+    background: url('img/contact_info/Pin_outline.svg') 0 0 / 100% no-repeat;
 }
 
 .info__item-address {
@@ -1629,7 +1629,7 @@ body {
 
 .questions__form-default:checked+.questions__form-custom {
     border: 1px solid rgb(255, 63, 58);
-    background: url('/img/icon/check.svg') 50% 50% no-repeat, rgb(255, 63, 58);
+    background: url('img/icon/check.svg') 50% 50% no-repeat, rgb(255, 63, 58);
 }
 
 .questions__form-custom {
@@ -1800,7 +1800,7 @@ body {
     display: block;
     width: 16px;
     height: 16px;
-    background: url('/img/icon/arrow_Right_mini.svg') 0 0 / 100% no-repeat;
+    background: url('img/icon/arrow_Right_mini.svg') 0 0 / 100% no-repeat;
     transition: all .3s;
 }
 
@@ -1832,7 +1832,7 @@ body {
     display: inline-block;
     width: 16px;
     height: 16px;
-    background: url('/img/icon/Heart.svg') 0 0 / 100% 100% no-repeat;
+    background: url('img/icon/Heart.svg') 0 0 / 100% 100% no-repeat;
     vertical-align: sub;
 }
 
